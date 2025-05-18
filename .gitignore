@@ -7,6 +7,12 @@ bin-release/
 # Other files and folders
 .settings/
 
+models/
+books/
+wiki/
+kolibri/
+maps/
+
 # Executables
 *.swf
 *.air
